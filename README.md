@@ -51,10 +51,6 @@ Let me give it a try to do my best and also get to know what kinda challenges to
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
       <br>WordPress
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
-    </td>
   </tr>
 
 
@@ -101,9 +97,15 @@ Let me give it a try to do my best and also get to know what kinda challenges to
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
       <br>Nest
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=apollo" width="45" height="45" alt="Apollo" />
@@ -185,14 +187,6 @@ Let me give it a try to do my best and also get to know what kinda challenges to
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
       <br>RabbitMQ
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
-      <br>Kubernetes
-    </td>
   </tr>
 
 
@@ -224,14 +218,14 @@ Let me give it a try to do my best and also get to know what kinda challenges to
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
-  </tr>
-
-
-
-
-
-
-  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
+      <br>Kubernetes
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
@@ -240,6 +234,8 @@ Let me give it a try to do my best and also get to know what kinda challenges to
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Next.js" />
       <br>Ruby
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
       <br>C#
