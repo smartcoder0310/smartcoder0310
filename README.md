@@ -264,7 +264,5 @@ Let me give it a try to do my best and also get to know what kinda challenges to
 <br/>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
-<h1 align="center"><img src="/html/body/div[1]/div[5]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[2]/a/img" /></h1>
-
 
 
