@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]()
 <h1 align="center">Actually, the website is as strong as the weakest link!</h1>
 
 There can be miracle when you believe!
